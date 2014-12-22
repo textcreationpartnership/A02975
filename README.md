@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The French kings edict vpon the reducing of the citie of Paris vnder his obedience Published the 28.
+
 #####Body#####
+
+1. The Kings edict or declaration.
 HEnry by the grace of God King of Fraunce and Nauarre, to all men preſent and to come, greeting: WheThe King hath ordained and doth ordaine that vpon the fould of theſe letters, ſhall bee ſet downe, RThe King hath ordained, and doth ordaine that vppon the fould of theſe letters ſhall bee ſet downe, The King hath ordained and doth ordaine that vppon the fould of theſe letters ſhall bee ſet downe. RIt is ordained that vpon the fould of the ſaid letters ſhall be ſet downe, Read, Publiſhed, and Regi
+1. The Kinges Letters Patents for the reeſtabliſhment of the Court of Parliament of Paris.
+The King hath ordained and doth ordaine that vppon the fould of theſe Letters ſhalbe ſet downe, Red,
+1. The Decree of the Court of Parliament of Paris, of the 30. day of March 1594.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
